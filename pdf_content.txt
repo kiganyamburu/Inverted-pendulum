@@ -1,0 +1,12 @@
+
+================================================================================
+PAGE 1
+================================================================================
+
+I want to control the pendulum to return to its
+equilibrium position using the swing-up algorithm
+and LQR control.
+I obtained the nonlinear equations from quanser's
+document, and then I used MATLAB to solve the
+╠ê ╠ê
+equations of thetadotdot(≡¥£â) and alphaldotdot.(≡¥¢╝)
